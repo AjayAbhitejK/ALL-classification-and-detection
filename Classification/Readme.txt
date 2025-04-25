@@ -6,4 +6,4 @@ The various DL models used are:
 - EfficientNetB0
 - EfficientNetB3
 
-Highest accuracy of 96.86% achieved by Xception.
+Highest test accuracy of 96.86% achieved by Xception.
